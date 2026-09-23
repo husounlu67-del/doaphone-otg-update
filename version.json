@@ -1,0 +1,5 @@
+{
+  "version": "1.0.10",
+  "notes": "Cihaz pencereleri yeni duzen: ilk acilan telefon ekranin tam ortasinda acilir, sonrakiler bir oncekinin hafif sag altina ust uste acilir (arkadakiler hep gorunur). Tiklanan pencere one gelir.",
+  "sha256": "4ad1bb596d7caa5f8b1292adf86775b78fa2188f39592eabe0f8a91a584638a8"
+}
