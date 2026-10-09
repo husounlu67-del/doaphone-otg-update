@@ -1,0 +1,5 @@
+{
+    "version":  "1.0.20",
+    "notes":  "Performans ve kararlilik: cihaz izgarasi artik ekranda gorunmeyen telefonlardan surekli ekran goruntusu cekmiyor, ag yuku yaklasik 10 kat azaldi (kasma ve oyun baglanti kopmalari icin). Telefon pencereleri 60 FPS. adb baglantisi daha kararli, kaydirirken telefonlar yeniden baslatilmiyor.",
+    "sha256":  "81fc9c0f27a7052e03f19e9438300f490d9966cfcb531e73f3c3a28f852d2e03"
+}
